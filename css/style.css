@@ -676,6 +676,22 @@ a:focus {
   color: #00bbf0;
 }
 
+.modal-dialog {
+  max-width: 600px; 
+  height: 450px; 
+}
+
+#musicianImage {
+  max-width: 120%; 
+  height: auto;  
+}
+
+#musicianBio {
+  margin-left: 20px; 
+  text-align: justify;
+}
+
+
 /*team section end*/
 .info_section {
   background-color: #00204a;
